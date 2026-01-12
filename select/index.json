@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イエナイ",
+  "base_artist": "Soala",
+  "createdAt": "2026-01-12T15:51:35.342148Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イエナイ",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/pl_01_イエナイ_Soala.txt"
+    }
+  ]
+}
